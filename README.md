@@ -26,8 +26,8 @@ The **Analog Gas Sensor** is used to measure the concentration of various gases 
 
 ## Circuit Diagrams
 
-### 1. Circuit for Gas Sensor
+### 1. Circuit for PIR Sensor
 ![Image](https://github.com/user-attachments/assets/cfa169df-fbe1-4e7d-8ec2-b404460095fe)
 
-### 2. Circuit for PIR Sensor
+### 2. Circuit for Gas Sensor 
 ![Image](https://github.com/user-attachments/assets/941d5f87-086e-4fcf-bc82-470edd8abd86)
