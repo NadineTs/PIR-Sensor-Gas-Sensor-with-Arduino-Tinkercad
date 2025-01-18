@@ -24,3 +24,10 @@ The **Passive Infrared (PIR) Motion Sensor** is designed to detect motion by sen
 
 The **Analog Gas Sensor** is used to measure the concentration of various gases in the environment. It provides an analog output voltage that corresponds to the gas concentration. This sensor is essential for air quality monitoring and safety applications.
 
+## Circuit Diagrams
+
+### 1. Circuit for Gas Sensor
+![Image](https://github.com/user-attachments/assets/cfa169df-fbe1-4e7d-8ec2-b404460095fe)
+
+### 2. Circuit for PIR Sensor
+![Image](https://github.com/user-attachments/assets/941d5f87-086e-4fcf-bc82-470edd8abd86)
